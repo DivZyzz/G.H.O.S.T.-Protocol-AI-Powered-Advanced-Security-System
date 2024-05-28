@@ -1,0 +1,32 @@
+G.H.O.S.T. Protocol Software License Agreement
+
+This Software License Agreement ("Agreement") is a legal agreement between you ("Licensee") and Divyanshu Yadav ("Licensor") for the use of the G.H.O.S.T. Protocol software product ("Software").
+
+1. License Grant
+   Licensor grants Licensee a non-exclusive, non-transferable, revocable license to use the Software solely for personal, non-commercial purposes.
+
+2. Restrictions
+   Licensee shall not:
+   - Copy, modify, or distribute the Software.
+   - Use the Software for commercial purposes.
+   - Reverse engineer, decompile, or disassemble the Software.
+   - Remove or alter any proprietary notices or labels on the Software.
+
+3. Ownership
+   The Software is the property of Licensor and is protected by copyright laws and international copyright treaties. Licensee acknowledges that no title to the intellectual property in the Software is transferred to Licensee.
+
+4. Termination
+   This license is effective until terminated. Licensor may terminate this license at any time for any reason. Upon termination, Licensee must destroy all copies of the Software in their possession.
+
+5. Disclaimer of Warranty
+   The Software is provided "as is" without warranty of any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose, and non-infringement.
+
+6. Limitation of Liability
+   In no event shall Licensor be liable for any damages arising out of the use or inability to use the Software, even if Licensor has been advised of the possibility of such damages.
+
+7. Governing Law
+   This Agreement shall be governed by and construed in accordance with the laws of India, without regard to its conflict of laws principles.
+
+By using the Software, Licensee agrees to be bound by the terms and conditions of this Agreement. If Licensee does not agree to these terms, Licensee must not use the Software.
+
+© 2024 Divyanshu Yadav. All rights reserved.

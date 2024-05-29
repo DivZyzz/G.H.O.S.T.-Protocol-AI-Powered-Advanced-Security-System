@@ -6,4 +6,4 @@ imutils==0.5.4
 Pillow==9.1.0
 requests==2.27.1
 face_recognition==1.3.0
-smtplib==3.5.4
+

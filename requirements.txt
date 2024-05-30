@@ -6,4 +6,5 @@ imutils
 Pillow
 requests
 face_recognition
-
+cmake
+dlib
